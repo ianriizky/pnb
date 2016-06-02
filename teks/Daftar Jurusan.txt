@@ -1,0 +1,19 @@
+Jurusan Teknik Sipil
+	Program Studi D3 Teknik Sipil
+	Program Studi D4 (S1 Terapan) Manajemen Proyek Konstruksi
+Jurusan Teknik Mesin
+	Program Studi D3 Teknik Mesin
+	Program Studi D3 Teknik Pendingin dan Tata Udara
+Jurusan Teknik Elektro
+	Program Studi D3 Teknik Listrik
+	Program Studi D3 Manajemen Informatika
+Jurusan Akuntansi
+	Program Studi D3 Akuntansi
+	Program Studi D4 (S1 Terapan) Akuntansi Manajerial
+Jurusan Administrasi Niaga
+	Program Studi D3 Administrasi Bisnis
+	Program Studi D4 (S1 Terapan) Manajemen Bisnis Internasional
+Jurusan Pariwisata
+	Program Studi D3 Usaha Perjalanan Wisata
+	Program Studi D3 Perhotelan
+	Program Studi D4 (S1 Terapan) Manajemen Bisnis Pariwisata
